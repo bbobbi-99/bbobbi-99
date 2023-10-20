@@ -1,8 +1,6 @@
 <div align="center">
   WELCOME TO MY PLAYGROUND
-  <br/>
-  <br/>
-  SKILLS
+  
   <br/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -13,7 +11,7 @@
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=github&logoColor=white">
   <br/>
   <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bo-Yeong&theme=buefy&show_icons=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bbobbi-99&theme=buefy&show_icons=true" width="45%" />
   </a>
 </div>
 <!--
