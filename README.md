@@ -1,9 +1,12 @@
 
 ### INTRODUCE
-
-<div align="center">
-  WELCOME TO MY PLAYGROUND
+<div style="display:flex; flex-direction:row;">
+  HI ! WELCOME TO MY PLAYGROUND!
   <br/>
+  <br/>
+## 💻 I've used
+<div style="display:flex; flex-direction:row;">
+<div align="center">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
