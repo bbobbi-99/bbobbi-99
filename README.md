@@ -3,11 +3,13 @@
 <div style="display:flex; flex-direction:row;">
   HI ! WELCOME TO MY PLAYGROUND!
   <br/>
+  <br/>
   <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=bbobbi-99&theme=buefy&show_icons=true" width="45%" />
   </a>
   <br/>
-💻 I've used
+  <br/>
+####  :clipboard: I've used
 <div style="display:flex; flex-direction:row;">
 <br/>
   <br/>
