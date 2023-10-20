@@ -3,6 +3,9 @@
 <div style="display:flex; flex-direction:row;">
   HI ! WELCOME TO MY PLAYGROUND!
   <br/>
+  <a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=bbobbi-99&theme=buefy&show_icons=true" width="45%" />
+  </a>
   <br/>
 💻 I've used
 <div style="display:flex; flex-direction:row;">
@@ -17,9 +20,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=github&logoColor=white">
   <br/>
-  <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=bbobbi-99&theme=buefy&show_icons=true" width="45%" />
-  </a>
+  
 </div>
 <!--
 **bbobbi-99/bbobbi-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
