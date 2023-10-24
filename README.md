@@ -3,15 +3,18 @@
   HI ! WELCOME TO MY PLAYGROUND!
   <br/>
   <br/>
+  <h3 align="center">My Github Stats</h3>
+  <div align="center">
   <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=bbobbi-99&theme=buefy&show_icons=true" width="45%" />
   </a>
+  </div>
   <br/>
   <br/>
 
 ## 💻 Skills 
   <br/>
-  <div align="lefrt">
+  <div align="left">
      <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
