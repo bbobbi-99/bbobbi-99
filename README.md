@@ -15,13 +15,15 @@
 ## 💻 Skills 
   <br/>
   <div align="left">
-     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
-     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
-     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-     <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=github&logoColor=white">
+     <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white">
+     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
+     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"> 
+     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white">
+     <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
+     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
  </div>
 <!--
 **bbobbi-99/bbobbi-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
